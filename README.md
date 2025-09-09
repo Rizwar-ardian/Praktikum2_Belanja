@@ -4,6 +4,7 @@ Membuat sebuah project baru Flutter dengan nama belanja dan susunan difolder lib
 
 Langkah 2: Mendefinisikan Route
 Membuar dua buah file dart dengan nama home_page.dart dan item_page.dart pada folder pages. Untuk masing-masing file, deklarasikan class HomePage pada file home_page.dart dan ItemPage pada item_page.dart. Turunkan class dari StatelessWidget.
+
 <img width="153" height="74" alt="image" src="https://github.com/user-attachments/assets/d2620aea-d811-4a97-81c2-a2cb93364dca" />
 <img width="1144" height="1118" alt="image" src="https://github.com/user-attachments/assets/4f7f671e-01e9-4e0a-ae06-d1235238102d" />
 
